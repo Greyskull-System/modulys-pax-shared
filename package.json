@@ -1,7 +1,7 @@
 {
-  "name": "@grayskull/shared",
+  "name": "@modulys-pax/shared",
   "version": "1.0.0",
-  "description": "Shared utilities, DTOs, and interfaces for Grayskull ERP",
+  "description": "Shared utilities, DTOs, and interfaces for Modulys Pax",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
     "test": "jest",
     "test:cov": "jest --coverage"
   },
-  "keywords": ["Grayskull", "shared", "utils", "dto"],
+  "keywords": ["modulys-pax", "shared", "utils", "dto"],
   "author": "",
   "license": "ISC",
   "dependencies": {
